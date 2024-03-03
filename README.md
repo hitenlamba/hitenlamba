@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hitenlamba.
 - 👀 I’m interested in Data.
-- 🌱 I’m currently learning No-SQL and IOT.
-- 💞️ I’m looking to collaborate on live IOT projects.
+- 🌱 I’m currently learning Time-series forcasting and Machine Learning.
+- 💞️ I’m looking to collaborate on live analytical project.
 - 📫 My E-Mail hl9415@g.rit.edu
